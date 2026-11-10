@@ -1,0 +1,147 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "nusantara-post",
+        "name": "Nusantara Post"
+      },
+      "author": "Redaksi Utama",
+      "title": "Pemerintah Sahkan Regulasi Transisi Energi Bersih Nasional 2025: Dorong Pembangkit EBT Daerah",
+      "description": "Kementerian ESDM resmi menerbitkan peta jalan percepatan transisi energi terbarukan dengan insentif fiskal khusus bagi pembangkit hidro dan surya di berbagai daerah.",
+      "url": "https://nusantarapost.id/ekonomi/transisi-energi-bersih-2025",
+      "urlToImage": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-25T01:30:00Z",
+      "content": "Pemerintah menargetkan bauran energi baru terbarukan mencapai 23 persen pada akhir tahun ini melalui kolaborasi investasi sektor swasta dan daerah...",
+      "category": "Bisnis"
+    },
+    {
+      "source": {
+        "id": "bisnis-indonesia",
+        "name": "Bisnis Indonesia"
+      },
+      "author": "Budi Hartono",
+      "title": "IHSG Ditutup Menguat Tajam Ditopang Saham Perbankan dan Manufaktur",
+      "description": "Indeks Harga Saham Gabungan (IHSG) mencatat apresiasi harian 1,4 persen seiring masuknya modal asing di sektor keuangan dan barang konsumsi.",
+      "url": "https://nusantarapost.id/bisnis/ihsg-menguat-tajam-februari",
+      "urlToImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-24T09:15:00Z",
+      "content": "Kinerja positif bursa saham domestik didorong oleh rilis laporan keuangan kuartalan sejumlah bank besar yang melampaui proyeksi konsensus analis pasar modal...",
+      "category": "Bisnis"
+    },
+    {
+      "source": {
+        "id": "tekno-insider",
+        "name": "Tekno Insider"
+      },
+      "author": "Siti Rahma",
+      "title": "Startup Kecerdasan Buatan Asal Bandung Raih Pendanaan Seri A Senilai 15 Juta Dollar",
+      "description": "Platform AI generatif berbasis pemrosesan bahasa alami bahasa daerah berhasil menarik minat pemodal ventura global untuk ekspansi Asia Tenggara.",
+      "url": "https://nusantarapost.id/teknologi/startup-ai-bandung-pendanaan-seri-a",
+      "urlToImage": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-24T07:45:00Z",
+      "content": "Dana segar ini akan dialokasikan untuk riset model multimodal dan pembangunan infrastruktur komputasi awan lokal yang hemat energi...",
+      "category": "Teknologi"
+    },
+    {
+      "source": {
+        "id": "nusantara-post",
+        "name": "Nusantara Post"
+      },
+      "author": "Rian Kusuma",
+      "title": "Konektivitas 5G Standalone Mulai Diperluas ke Kawasan Industri Kendal dan Batang",
+      "description": "Operator telekomunikasi bersama operator kawasan meluncurkan jaringan privat 5G untuk otomatisasi robotik dan smart logistics manufaktur presisi.",
+      "url": "https://nusantarapost.id/teknologi/konektivitas-5g-kawasan-industri",
+      "urlToImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-23T14:20:00Z",
+      "content": "Penerapan jaringan privat berkecepatan tinggi dengan latensi amat rendah ini diproyeksikan meningkatkan efisiensi operasional pabrik perakitan elektronik hingga 30 persen...",
+      "category": "Teknologi"
+    },
+    {
+      "source": {
+        "id": "antaranews",
+        "name": "Antara News"
+      },
+      "author": "Dedi Prasetyo",
+      "title": "Timnas Indonesia Amankan Kemenangan Krusial di Babak Kualifikasi Piala Dunia",
+      "description": "Skuad Garuda menundukkan lawan dengan skor meyakinkan 2-0 di Stadion Gelora Bung Karno di hadapan lebih dari 65 ribu pendukung setia.",
+      "url": "https://nusantarapost.id/olahraga/timnas-indonesia-kualifikasi-piala-dunia",
+      "urlToImage": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-23T16:00:00Z",
+      "content": "Dua gol kemenangan tercipta melalui skema serangan balik cepat dan eksekusi bola mati yang apik, menempatkan Indonesia pada posisi kedua klasemen sementara grup...",
+      "category": "Olahraga"
+    },
+    {
+      "source": {
+        "id": "detiksport",
+        "name": "Detik Sport"
+      },
+      "author": "Wahyu Setiawan",
+      "title": "Ganda Putra Merah Putih Lolos ke Babak Final Indonesia Open Super 1000",
+      "description": "Pertarungan sengit tiga gim berdurasi 75 menit mengantarkan pasangan muda Indonesia menantang unggulan pertama di partai puncak istora.",
+      "url": "https://nusantarapost.id/olahraga/ganda-putra-final-indonesia-open",
+      "urlToImage": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-22T11:10:00Z",
+      "content": "Kekompakan rotasi pertahanan dan smes keras di area depan net menjadi kunci kemenangan dramatis pada set penentuan yang berakhir dengan skor 22-20...",
+      "category": "Olahraga"
+    },
+    {
+      "source": {
+        "id": "tempo-co",
+        "name": "Tempo"
+      },
+      "author": "Nadia Putri",
+      "title": "Film Karya Sineas Muda Yogyakarta Tayang Perdana di Festival Film Bergengsi Berlin",
+      "description": "Drama keluarga bertema pelestarian wayang kulit kontemporer mendapat sambutan hangat standing ovation selama delapan menit dari para penonton internasional.",
+      "url": "https://nusantarapost.id/hiburan/film-indonesia-festival-berlin",
+      "urlToImage": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-21T18:00:00Z",
+      "content": "Karya ini mengangkat dinamika generasi muda perajin wayang di pedesaan Jawa yang berupaya memadukan warisan leluhur dengan seni animasi digital masa kini...",
+      "category": "Hiburan"
+    },
+    {
+      "source": {
+        "id": "kompas-com",
+        "name": "Kompas"
+      },
+      "author": "Anisa Maharani",
+      "title": "Festival Musik Jazz Gunung Kembali Digelar dengan Kolaborasi Musisi Lintas Generasi",
+      "description": "Panggung alam terbuka di kawasan Bromo siap menyajikan harmoni musik jazz etnik dengan udara sejuk pegunungan pada akhir pekan mendatang.",
+      "url": "https://nusantarapost.id/hiburan/jazz-gunung-bromo-2025",
+      "urlToImage": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-20T13:40:00Z",
+      "content": "Panitia memastikan seluruh tata kelola acara menerapkan konsep ramah lingkungan dengan membatasi sampah plastik sekali pakai bagi seluruh pengunjung...",
+      "category": "Hiburan"
+    },
+    {
+      "source": {
+        "id": "kemenkes",
+        "name": "Kementerian Kesehatan RI"
+      },
+      "author": null,
+      "title": "Kemenkes Perluas Program Skrining Kesehatan Gratis ke Seluruh Puskesmas di Indonesia",
+      "description": "Pemeriksaan kesehatan preventif berkala dapat diakses warga saat hari ulang tahun untuk deteksi dini risiko penyakit kardiovaskular dan diabetes.",
+      "url": "https://nusantarapost.id/kesehatan/skrining-kesehatan-gratis-puskesmas",
+      "urlToImage": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80",
+      "publishedAt": "2025-02-19T08:30:00Z",
+      "content": "Layanan ini mencakup cek tekanan darah, kadar gula darah, kolesterol, serta indeks massa tubuh guna mendorong budaya hidup sehat sejak usia produktif...",
+      "category": "Kesehatan"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jurnal Medika"
+      },
+      "author": "dr. Hendra Wijaya",
+      "title": "Pola Tidur Teratur dan Aktivitas Fisik Terbukti Mengurangi Tingkat Stres Pekerja Perkotaan",
+      "description": "Riset terbaru menunjukkan perbaikan kualitas tidur selama 7 jam per hari secara konsisten mampu menstabilkan kadar hormon kortisol tubuh.",
+      "url": "https://nusantarapost.id/kesehatan/pola-tidur-aktivitas-fisik-stres",
+      "urlToImage": null,
+      "publishedAt": "2025-02-18T10:00:00Z",
+      "content": "Para peneliti menyarankan pembatasan paparan layar gawai satu jam sebelum waktu istirahat malam serta jalan santai minimal 30 menit setiap pagi...",
+      "category": "Kesehatan"
+    }
+  ]
+}
+
