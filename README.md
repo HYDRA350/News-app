@@ -14,7 +14,7 @@ The application integrates with [NewsAPI.org](https://newsapi.org/) to retrieve 
 
 | Home Page | Article Detail |
 |:---:|:---:|
-| ![Home Page](docs/screenshots/HomePage.png) | ![Article Detail](docs/screenshots/Detailpage.png) |
+| ![Home Page](docs/screenshots/homePage.png) | ![Article Detail](docs/screenshots/Detailpage.png) |
 
 | Bookmark Page |
 |:---:|
